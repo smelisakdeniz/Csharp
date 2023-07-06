@@ -1,0 +1,20 @@
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\bin\Debug\Radyo Uygulaması.exe.config
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\bin\Debug\Radyo Uygulaması.exe
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\bin\Debug\Radyo Uygulaması.pdb
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo Uygulaması.csproj.AssemblyReference.cache
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo_Uygulaması.Form1.resources
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo_Uygulaması.Properties.Resources.resources
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo Uygulaması.csproj.GenerateResource.cache
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo Uygulaması.exe
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo Uygulaması.pdb
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo Uygulaması.csproj.ResolveComReference.cache
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo_Uygulaması.RadyoPanel.resources
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo_Uygulaması.PanelTumRadyolar.resources
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo_Uygulaması.panelFavoriRadyolar.resources
+C:\Users\smeli\source\repos\Radyo Uygulaması\Radyo Uygulaması\obj\Debug\Radyo_Uygulaması.panelAyarlar.resources

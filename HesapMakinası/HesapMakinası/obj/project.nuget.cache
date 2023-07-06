@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSxG1nKQXBX6GPBCIGEt3euwY9udTXycKOO5OPu8+AcbqADkkVtwJDqCOPHz0k8kKpzGrMCn5SNpZ4hs4Y5olQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smeli\\source\\repos\\HesapMakinası\\HesapMakinası\\HesapMakinası.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smeli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

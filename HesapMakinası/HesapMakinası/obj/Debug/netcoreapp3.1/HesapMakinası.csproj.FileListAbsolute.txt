@@ -1,0 +1,16 @@
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\bin\Debug\netcoreapp3.1\HesapMakinası.exe
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\bin\Debug\netcoreapp3.1\HesapMakinası.deps.json
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\bin\Debug\netcoreapp3.1\HesapMakinası.runtimeconfig.json
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\bin\Debug\netcoreapp3.1\HesapMakinası.runtimeconfig.dev.json
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\bin\Debug\netcoreapp3.1\HesapMakinası.dll
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\bin\Debug\netcoreapp3.1\HesapMakinası.pdb
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.Form1.resources
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.csproj.GenerateResource.cache
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.AssemblyInfoInputs.cache
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.AssemblyInfo.cs
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.csproj.CoreCompileInputs.cache
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.dll
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.pdb
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.genruntimeconfig.cache
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.csproj.AssemblyReference.cache
+C:\Users\smeli\source\repos\HesapMakinası\HesapMakinası\obj\Debug\netcoreapp3.1\HesapMakinası.GeneratedMSBuildEditorConfig.editorconfig
